@@ -1,0 +1,42 @@
+
+#devoured-card-header  {
+    background-color: black;
+}
+
+
+.devoured-burger-name {
+    color: white;
+}
+
+
+body {
+    font-family: 'Righteous';
+}
+
+
+#app-title {
+    font-size: 90px;
+}
+
+
+.lead {
+    font-size: 24px;
+}
+
+
+body {
+    background-image: url("/assets/image/burger1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.footer-body {
+    background-color: black;
+}
+
+
+.devoured-card, .footer {  
+    border-style: solid;
+    border-color: white;
+}

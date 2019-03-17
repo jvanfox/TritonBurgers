@@ -1,0 +1,15 @@
+INSERT INTO burgers (burger_name) VALUES ('Triton Burger');
+INSERT INTO burgers (burger_name) VALUES ('Double Bacon Burger');
+INSERT INTO burgers (burger_name) VALUES ('Guacamole Burger');
+INSERT INTO burgers (burger_name) VALUES ('Cheeseburger');
+INSERT INTO burgers (burger_name) VALUES ('Bacon Burger');
+INSERT INTO burgers (burger_name) VALUES ('Double Cheeseburger');
+INSERT INTO burgers (burger_name) VALUES ('Suicide Burger');
+INSERT INTO burgers (burger_name) VALUES ('Animal Style Burger');
+INSERT INTO burgers (burger_name) VALUES ('Black and Bleu Burger');
+INSERT INTO burgers (burger_name) VALUES ('Veggie Burger');
+INSERT INTO burgers (burger_name) VALUES ('Turkey Burger');
+INSERT INTO burgers (burger_name) VALUES ('Cheeseburger');
+INSERT INTO burgers (burger_name) VALUES ('Southwestern Burger');
+INSERT INTO burgers (burger_name) VALUES ('Spinach Artichoke Turkey Burger');
+INSERT INTO burgers (burger_name) VALUES ('Portebello Mushroom Burger');
